@@ -1,4 +1,7 @@
 # Leyou
+技术选型： 基础的HTML、CSS、JavaScript、Tomcat 8.5、JQuery、springboot、Vuetify、axios、SpringMVC、Spring Boot、Spring Cloud、Redis、RabbitMQ、Elasticsearch、nginx、FastDFS、Thymeleaf、mysql
+硬件环境：Windows 10，linux
+开发工具：IDEA
 项目描述：
 	整个乐优商城可以分为两部分：后台管理系统、前台门户系统。
 	后台管理：
@@ -17,3 +20,4 @@
 - 评价商品等等
 项目总结：
 	这个项目是在网上找的资源学习做的，在项目中应用了大量的比较前沿的技术，在完成整个项目之后，又对每个技术的原理做了一定的研究，使整个的学习收获巨大。
+
